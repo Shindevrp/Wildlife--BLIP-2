@@ -1,0 +1,11 @@
+[
+  {
+    "image": "images/elephant.jpg",
+    "caption": "A herd of elephants crossing the river."
+  },
+  {
+    "image": "images/deer.jpg",
+    "question": "Is there a deer in the image?",
+    "answer": "Yes"
+  }
+]

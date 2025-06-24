@@ -1,0 +1,6 @@
+transformers
+datasets
+torch
+torchvision
+pillow
+accelerate
